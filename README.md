@@ -15,4 +15,4 @@ export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'
 # Example
 
 ![fzf](screenshots/preview.png)
-![fzf](screenshots/preview_match.png)
+![fzf](screenshots/preview_match.png)r
